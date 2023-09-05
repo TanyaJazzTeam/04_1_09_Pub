@@ -5,11 +5,14 @@
       "sections": [
         {
           "name": "Kinematik",
-          "interest": "Großartig"
+          "complexity": "average",
+          "interest": "Großartig",
+          "bool": true
         },
         {
           "name": "Hydrodynamik",
           "complexity": "4",
+          "interest": "3",
           "bool": "FALSCH"
         }
       ]
@@ -23,6 +26,7 @@
       ]
     },
     {
+      "name": "Elektrizität",
       "sections": [
         {
           "name": "Elektrostatik",
